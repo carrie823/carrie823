@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋🏻 Hi there! I’m Carrie!
+✨ I’m interested in frontend web development and digital illustrations/design
+👩🏻‍💻 I’m currently working with HTML, CSS, JS, React, Node.js, PHP, Laravel, C#, MySQL, and MongoDB
 
 <!--
 **carrie823/carrie823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
